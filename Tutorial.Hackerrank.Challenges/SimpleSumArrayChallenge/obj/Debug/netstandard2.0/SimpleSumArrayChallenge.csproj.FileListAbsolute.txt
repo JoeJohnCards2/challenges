@@ -1,0 +1,9 @@
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\SimpleSumArrayChallenge\bin\Debug\netstandard2.0\SimpleSumArrayChallenge.deps.json
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\SimpleSumArrayChallenge\bin\Debug\netstandard2.0\SimpleSumArrayChallenge.dll
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\SimpleSumArrayChallenge\bin\Debug\netstandard2.0\SimpleSumArrayChallenge.pdb
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\SimpleSumArrayChallenge\obj\Debug\netstandard2.0\SimpleSumArrayChallenge.csproj.CoreCompileInputs.cache
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\SimpleSumArrayChallenge\obj\Debug\netstandard2.0\SimpleSumArrayChallenge.AssemblyInfoInputs.cache
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\SimpleSumArrayChallenge\obj\Debug\netstandard2.0\SimpleSumArrayChallenge.AssemblyInfo.cs
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\SimpleSumArrayChallenge\obj\Debug\netstandard2.0\SimpleSumArrayChallenge.dll
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\SimpleSumArrayChallenge\obj\Debug\netstandard2.0\SimpleSumArrayChallenge.pdb
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\SimpleSumArrayChallenge\obj\Debug\netstandard2.0\SimpleSumArrayChallenge.csprojAssemblyReference.cache

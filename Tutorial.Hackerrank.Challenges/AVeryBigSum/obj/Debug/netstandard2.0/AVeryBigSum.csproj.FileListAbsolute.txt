@@ -1,0 +1,9 @@
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\AVeryBigSum\bin\Debug\netstandard2.0\AVeryBigSum.deps.json
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\AVeryBigSum\bin\Debug\netstandard2.0\AVeryBigSum.dll
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\AVeryBigSum\bin\Debug\netstandard2.0\AVeryBigSum.pdb
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\AVeryBigSum\obj\Debug\netstandard2.0\AVeryBigSum.csproj.CoreCompileInputs.cache
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\AVeryBigSum\obj\Debug\netstandard2.0\AVeryBigSum.AssemblyInfoInputs.cache
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\AVeryBigSum\obj\Debug\netstandard2.0\AVeryBigSum.AssemblyInfo.cs
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\AVeryBigSum\obj\Debug\netstandard2.0\AVeryBigSum.dll
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\AVeryBigSum\obj\Debug\netstandard2.0\AVeryBigSum.pdb
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\AVeryBigSum\obj\Debug\netstandard2.0\AVeryBigSum.csprojAssemblyReference.cache

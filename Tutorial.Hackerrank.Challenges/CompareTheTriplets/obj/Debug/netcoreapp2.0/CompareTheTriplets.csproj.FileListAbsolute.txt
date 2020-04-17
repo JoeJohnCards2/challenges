@@ -1,0 +1,9 @@
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\CompareTheTriplets\bin\Debug\netcoreapp2.0\CompareTheTriplets.deps.json
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\CompareTheTriplets\bin\Debug\netcoreapp2.0\CompareTheTriplets.dll
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\CompareTheTriplets\bin\Debug\netcoreapp2.0\CompareTheTriplets.pdb
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\CompareTheTriplets\obj\Debug\netcoreapp2.0\CompareTheTriplets.csprojAssemblyReference.cache
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\CompareTheTriplets\obj\Debug\netcoreapp2.0\CompareTheTriplets.csproj.CoreCompileInputs.cache
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\CompareTheTriplets\obj\Debug\netcoreapp2.0\CompareTheTriplets.AssemblyInfoInputs.cache
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\CompareTheTriplets\obj\Debug\netcoreapp2.0\CompareTheTriplets.AssemblyInfo.cs
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\CompareTheTriplets\obj\Debug\netcoreapp2.0\CompareTheTriplets.dll
+C:\Users\JJBarajas\source\repos\Tutorial.Hackerrank.Challenges\CompareTheTriplets\obj\Debug\netcoreapp2.0\CompareTheTriplets.pdb
